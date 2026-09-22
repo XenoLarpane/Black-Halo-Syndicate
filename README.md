@@ -2,19 +2,33 @@
 
 > **One banner. Endless possibilities.**
 
-Black Halo Syndicate (BHS) is a growing community and organization built around **collaboration, creativity, technology, entrepreneurship, and shared projects**.
+Black Halo Syndicate (BHS) is a growing community and organization built around **collaboration, creativity, technology, entrepreneurship, and shared projects.**
 
-What began as a community is evolving into something larger: a network where people can meet, build, learn, create, contribute, and eventually turn ideas into real-world projects and services.
+What began as a community is gradually evolving into a broader organization where people can meet, build, learn, create, contribute, and turn ideas into real projects.
 
 ---
 
-## 🌑 About Black Halo Syndicate
+## 🌑 About
 
 Black Halo Syndicate is designed to operate across multiple fields rather than being limited to a single interest.
 
 Our long-term direction is built around:
 
-**Community → Collaboration → Projects → Public Work → Value → Revenue → Sustainable Organization**
+```text
+Community
+     ↓
+Collaboration
+     ↓
+Projects
+     ↓
+Public Work
+     ↓
+Value
+     ↓
+Revenue
+     ↓
+Sustainable Organization
+```
 
 Members can participate at different levels depending on their interests, skills, and availability.
 
@@ -26,18 +40,18 @@ Members can participate at different levels depending on their interests, skills
 * 🎬 **Media & Video**
 * 🚀 **Entrepreneurship**
 * 🧠 **Research & Innovation**
-* 🎮 **Gaming & Community Events**
+* 🎮 **Gaming & Community**
 * 🌐 **Public Projects & Services**
 
 The goal is not simply to gather members.
 
-The goal is to **build things together.**
+**The goal is to build things together.**
 
 ---
 
 # 🏛️ Organization
 
-BHS operates through a structure that allows members to participate without requiring everyone to have the same level of commitment.
+BHS allows people to participate at different levels depending on their interests and commitment.
 
 ### Casual Members
 
@@ -54,7 +68,7 @@ No major project commitment is required.
 
 ### Contributors
 
-Members who actively contribute skills, time, or work to projects and divisions.
+Members who actively contribute skills, time, ideas, or work to projects and divisions.
 
 Examples include:
 
@@ -65,6 +79,7 @@ Examples include:
 * Researchers
 * Entrepreneurs
 * Project contributors
+* Community organizers
 
 ### Leadership
 
@@ -77,45 +92,40 @@ Members trusted with responsibility over:
 * Community management
 * Organizational development
 
-Leadership is based on **competence, responsibility, trust, and contribution**.
+Leadership is built around **competence, responsibility, trust, and contribution.**
 
 ---
 
 # ⚙️ Divisions
 
-BHS is gradually developing specialized divisions for different types of work.
+As BHS grows, specialized divisions may be established around different types of work.
 
-### 💻 Technology Division
+### 💻 Technology
 
-Focused on software, programming, websites, applications, automation, and technical projects.
+Focused on:
 
-Possible projects:
-
+* Software development
 * Websites
 * Applications
+* Automation
 * Internal tools
-* Software prototypes
 * Open-source projects
-* Client services
+* Technical services
 
-### 🎨 Creative Division
+### 🎨 Creative
 
-Focused on visual identity and creative production.
-
-Areas may include:
+Focused on:
 
 * Graphic design
 * Branding
 * UI/UX
 * Illustration
-* Content design
-* Visual assets
+* Visual identity
+* Creative assets
 
 ### 🎬 Media & Content
 
-Focused on communicating BHS projects and ideas.
-
-Areas may include:
+Focused on:
 
 * Video
 * Editing
@@ -126,16 +136,76 @@ Areas may include:
 
 ### 🚀 Entrepreneurship
 
-Focused on transforming ideas into viable projects, products, and services.
+Focused on:
 
-Areas may include:
-
-* Startup concepts
-* Business development
+* Business concepts
+* Product development
 * Market research
-* Project monetization
+* Business development
 * Partnerships
+* Revenue-generating projects
+
+Divisions will develop according to actual member capabilities and organizational needs.
+
+---
+
+# 🚀 Current Project
+
+## 🌐 Black Halo Syndicate Website
+
+The official **Black Halo Syndicate website** is currently the organization's primary active technical project.
+
+The website serves as BHS's public-facing platform and is being developed to present the organization's identity, structure, community, projects, events, and future initiatives.
+
+### Current Sections
+
+* 🏠 Home
+* ℹ️ About
+* 🏛️ Organization
+* 👥 Community
+* 🚀 Projects
+* 🎪 Events
+* 🗃️ Archives
+* 🤝 Join
+* 📬 Contact
+
+### Development Focus
+
+Current development includes:
+
+* Responsive design
+* Interactive UI
+* BHS visual identity
+* Celestial / Black Halo aesthetic
+* Navigation and user experience
+* Organization presentation
+* Project presentation
+* Community information
+* Performance and maintainability
+
+**Status:** `ACTIVE DEVELOPMENT`
+
+---
+
+# 🔮 Future Projects
+
+Additional projects will be documented here as they are officially established.
+
+Potential directions include:
+
+* Software projects
+* Web applications
+* Open-source tools
+* Creative projects
+* Community platforms
+* Events and competitions
 * Client services
+* Entrepreneurship initiatives
+* Collaborative projects
+
+Future projects will receive their own documentation and repositories when appropriate.
+
+> **Ideas are easy to announce. Projects are built through execution.**
 
 ---
 
@@ -170,29 +240,11 @@ black-halo-syndicate/
 └── LICENSE
 ```
 
-The structure may change as BHS grows.
+The structure may change as the organization and its projects develop.
 
 ---
 
-# 🚀 Current Projects
-
-Projects may be developed independently by members, divisions, or collaborative teams.
-
-Some projects may begin as experiments or prototypes before becoming larger public initiatives.
-
-### EVOLVE
-
-**EVOLVE** is a fitness-focused project currently being explored by the BHS team.
-
-The concept is centered around helping users structure and track their fitness development while combining technology with practical training.
-
-> **Status:** Development / Concept Stage
-
-More information will be added as the project develops.
-
----
-
-# 🧪 Project Philosophy
+# 🧪 Development Philosophy
 
 BHS projects are encouraged to follow a simple progression:
 
@@ -238,7 +290,7 @@ Contributions can take many forms:
 * Feedback
 * Community support
 
-If you want to contribute to a project, check its documentation first and coordinate with the relevant project or division lead.
+Members contributing to a project should coordinate with the relevant project or division lead before making significant changes.
 
 ### Basic Contribution Flow
 
@@ -264,26 +316,27 @@ For technical projects, contributors are encouraged to use branches and pull req
 
 # 🌐 GitHub Workflow
 
-BHS repositories should generally follow this workflow:
+BHS repositories should generally follow a structured development workflow.
 
 ### `main`
 
-Stable code and production-ready work.
+Contains stable and production-ready work.
 
 ### `develop`
 
-Active development and integration.
+Used for active development and integration when a project requires a separate development branch.
 
 ### Feature Branches
 
-Used for individual features, fixes, or experiments.
+Used for individual features, fixes, experiments, or documentation.
 
-Example:
+Examples:
 
 ```text
 feature/login-system
 feature/dashboard
-fix/mobile-navigation
+feature/mobile-navigation
+fix/responsive-layout
 docs/project-guide
 ```
 
@@ -311,10 +364,10 @@ Projects should aim for:
 * Organized files
 * Meaningful commits
 * Proper version control
+* Secure development practices
 * Respectful collaboration
-* Secure handling of sensitive information
 
-Do **not** commit:
+### Never commit sensitive information
 
 ```text
 API keys
@@ -329,9 +382,9 @@ Use environment variables and appropriate secret-management practices instead.
 
 ---
 
-# 🛡️ BHS Principles
+# 🛡️ Principles
 
-Black Halo Syndicate is built around several principles:
+Black Halo Syndicate is built around several principles.
 
 ### Strength earns respect.
 
@@ -343,15 +396,15 @@ Skill without responsibility is incomplete.
 
 ### Loyalty builds legacy.
 
-Organizations survive through people who continue to build together.
+Organizations are built by people who continue to build together.
 
 ### Create rather than consume.
 
-BHS encourages members to move from simply using communities, platforms, and technology toward actually **building them.**
+BHS encourages members to move beyond simply using communities, platforms, and technology toward actually **building them.**
 
 ---
 
-# 🧭 Long-Term Vision
+# 🧭 Vision
 
 BHS is intended to grow gradually rather than pretending to be a fully established organization overnight.
 
@@ -371,32 +424,33 @@ The long-term vision includes:
 
 As projects generate value, contributors may eventually receive compensation through appropriate organizational structures.
 
-Growth should follow actual capability and results.
+Growth should follow **actual capability, contribution, and results.**
 
 ---
 
-# 📈 Development Roadmap
+# 📈 Roadmap
 
-### Phase I — Foundation
+## Phase I — Foundation
 
 * [x] Establish BHS community
 * [x] Establish organizational direction
-* [x] Create initial leadership structure
+* [x] Establish initial leadership structure
 * [x] Begin website development
 * [x] Establish GitHub infrastructure
 * [ ] Organize project repositories
 * [ ] Establish contribution guidelines
+* [ ] Establish documentation standards
 
-### Phase II — Development
+## Phase II — Development
 
-* [ ] Build active divisions
+* [ ] Develop active divisions
 * [ ] Develop initial public projects
 * [ ] Recruit contributors
 * [ ] Establish project management systems
 * [ ] Build internal tools
 * [ ] Develop BHS services
 
-### Phase III — Expansion
+## Phase III — Expansion
 
 * [ ] Launch public projects
 * [ ] Establish partnerships
@@ -404,7 +458,7 @@ Growth should follow actual capability and results.
 * [ ] Expand technical and creative teams
 * [ ] Host events and collaborative initiatives
 
-### Phase IV — Organization
+## Phase IV — Organization
 
 * [ ] Formalize operational systems
 * [ ] Establish sustainable revenue streams
@@ -414,9 +468,50 @@ Growth should follow actual capability and results.
 
 ---
 
+# 🗃️ Archives
+
+The Archives are intended to preserve the history and development of Black Halo Syndicate.
+
+This may include:
+
+* Previous projects
+* Old website versions
+* Organizational changes
+* Major announcements
+* Historical documentation
+* Past events
+* Development milestones
+
+The Archive exists so that BHS can evolve without erasing where it came from.
+
+---
+
+# 🌐 Community
+
+Although BHS is developing toward a larger organizational structure, the community remains an important part of the organization.
+
+Members can still:
+
+* Hang out
+* Play games
+* Meet people
+* Participate in events
+* Share interests
+* Collaborate
+* Learn new skills
+* Join projects
+
+Not everyone needs to become a contributor.
+
+Not every contributor needs to become a leader.
+
+There is room for different levels of involvement under the same banner.
+
+---
+
 # 🏴 The Black Halo
 
-The **Black Halo** represents the idea of building something greater than any individual member.
+The **Black Halo** represents something larger than any individual member.
 
 Different people bring different skills.
 
@@ -427,45 +522,46 @@ Different projects may eventually become their own entities.
 But they operate under one banner.
 
 ```text
-              BLACK HALO SYNDICATE
-
-       COMMUNITY
-            │
-            ▼
-      COLLABORATION
-            │
-            ▼
-        PROJECTS
-            │
-            ▼
-      PUBLIC WORK
-            │
-            ▼
-          VALUE
-            │
-            ▼
-         REVENUE
-            │
-            ▼
-     SUSTAINABLE GROWTH
+                 BLACK HALO SYNDICATE
+                          │
+                          ▼
+                     COMMUNITY
+                          │
+                          ▼
+                    COLLABORATION
+                          │
+                          ▼
+                       PROJECTS
+                          │
+                          ▼
+                     PUBLIC WORK
+                          │
+                          ▼
+                        VALUE
+                          │
+                          ▼
+                       REVENUE
+                          │
+                          ▼
+                  SUSTAINABLE GROWTH
 ```
 
 ---
 
-# 📬 Contact & Community
+# 📬 Contact
 
-For information about joining, contributing, or collaborating with Black Halo Syndicate, contact the organization's leadership or use the official BHS community channels.
-
-> **BHS is still being built.**
->
-> The structure will evolve as the people, projects, and capabilities behind it evolve.
+For information about joining, contributing, collaborating, or working with Black Halo Syndicate, contact the organization's leadership or use the official BHS community channels.
 
 ---
 
-## ◉ BLACK HALO SYNDICATE
+# ◉ BLACK HALO SYNDICATE
 
-**One banner. Endless possibilities.**
+> **One banner. Endless possibilities.**
 
 **Strength earns respect.
 Character earns trust.
 Loyalty builds legacy.**
+
+---
+
+*Black Halo Syndicate is currently in development. The organization, projects, structure, and documentation will continue to evolve as BHS grows.*
